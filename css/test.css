@@ -1,0 +1,13 @@
+.red {
+position:relative;
+margin:200px;
+width:200px;
+height:200px;
+background: red;
+}
+.green {
+position:absolute;
+width:100px;
+height:100px;
+background: green;
+}
